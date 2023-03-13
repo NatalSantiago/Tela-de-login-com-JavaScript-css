@@ -6,7 +6,7 @@
 Sistema de Login desenvolvido em HTML5 com Javascrip + Css
 
 ## Layout web
-![Web 1](https://github.com/NatalSantiago/Tela-de-login-com-JavaScript-css/blob/master/Tela01.png)
+![Web 1](https://github.com/NatalSantiago/ImagensProjetos/blob/master/TelaSistemaLoginJavascrip_css.png)
 
 ## Front end
 - HTML / CSS / TypeScript
