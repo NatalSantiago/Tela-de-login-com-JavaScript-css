@@ -1,6 +1,23 @@
-# Tela-de-login-com-JavaScript-css
-Sistema de Login super top. com javascript e css. vendido por ai. só pegar e adapar ao seu sistema...
+# Sistema de Login
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/NatalSantiago/Tela-de-login-com-JavaScript-css/blob/master/LICENSE) 
 
+# Sobre o projeto
 
-![Screenshot](https://github.com/NatalSantiago/Tela-de-login-com-JavaScript-css/issues/1#issue-1620690434.png)
+Sistema de Login desenvolvido em HTML5 com Javascrip + Css
+
+## Layout web
+![Web 1](https://github.com/NatalSantiago/Tela-de-login-com-JavaScript-css/blob/master/Tela01.png)
+
+## Front end
+- HTML / CSS / TypeScript
+
+```bash
+# clonar repositório
+git clone https://github.com/NatalSantiago/Tela-de-login-com-JavaScript-css
+
+# Autor
+
+Natal de Jesus da Silva Santiago
+
+https://www.linkedin.com/in/natal-santiago-986680257/
 
